@@ -6,9 +6,7 @@ CP2 - EDGE (1ESPF)
 99656 - João Antonio Vieira Rihan / 
 550816 - Rodrigo Fernandes Serafim /
 
-Projeto Vinheiria Agnelo
-Trabalho feito para ajudar uma vinheiria fictícia, no qual implementamos um sistema que ajuda na manuntenção do ambiente no qual é guardado os vinhos.
-Mostramos através do nosso circuito as seguintes funcionalidades:
+Projeto Vinícola Agnelo - Este trabalho foi desenvolvido com o objetivo de auxiliar uma vinícola fictícia a manter um ambiente adequado para armazenar seus vinhos. Implementamos um sistema inovador que garante a manutenção ideal da temperatura, umidade e iluminação do local. Através do nosso circuito, foram disponibilizadas as seguintes funcionalidades:
  - luminosidade
  - umidade
  - temperatura
