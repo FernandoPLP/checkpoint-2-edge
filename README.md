@@ -7,7 +7,7 @@ CP2 - EDGE (1ESPF)
 550816 - Rodrigo Fernandes Serafim /
 
 Projeto Vinheiria Agnelo
-Trabalho feito para ajudar uma vinheiria ficticia, na onde criamos um sistemas que ajude na manuntenção do ambiente no qual é guardado os vinhos.
+Trabalho feito para ajudar uma vinheiria fictícia, na onde implementamos um sistema que ajuda na manuntenção do ambiente no qual é guardado os vinhos.
 Mostramos através do nosso circuito as seguintes funcionalidades:
  - luminosidade
  - umidade
@@ -21,9 +21,10 @@ Materiais usados:
     - Amerelo para indicar que o ambiente está com uma luminosidade mediana 
     - Verde para indicar que o ambiente está com uma Boa luminosidade
 - Resistores
-- Potenciometro
 - LCD 16X4
 - Piezo (Tipo de buzzer)
+- Potenciometro
+    -  Como no tinkerCad não temos um medidor de umidade, substituimos por um potenciometro
 - Fotorresistor
     - Para medir a luminosidade
 - Sensor de temperatura(TMP36)
