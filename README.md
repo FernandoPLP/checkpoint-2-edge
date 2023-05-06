@@ -7,7 +7,7 @@ CP2 - EDGE (1ESPF)
 550816 - Rodrigo Fernandes Serafim /
 
 Projeto Vinheiria Agnelo
-Trabalho feito para ajudar uma vinheiria fictícia, na onde implementamos um sistema que ajuda na manuntenção do ambiente no qual é guardado os vinhos.
+Trabalho feito para ajudar uma vinheiria fictícia, no qual implementamos um sistema que ajuda na manuntenção do ambiente no qual é guardado os vinhos.
 Mostramos através do nosso circuito as seguintes funcionalidades:
  - luminosidade
  - umidade
